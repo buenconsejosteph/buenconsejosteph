@@ -1,4 +1,17 @@
 ## Hi there 👋
+# 📝About me
+## Skills 🧰💡
+- PHP (Laravel)
+- C# (.Net, Asp.Net Core MVC)
+- Typescript (Nestjs, Angular)
+- JavaScript (jQuery, Vue, React)
+- Python (django REST API)
+- Microsoft Dynamics NAV 2016/2018 C/AL
+- C++
+- MySQL / MariaDB, SQL Server, PostgreSQL
+- HTML
+- CSS
+
 
 <!--
 **buenconsejosteph/buenconsejosteph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
