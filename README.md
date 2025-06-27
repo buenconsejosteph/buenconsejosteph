@@ -11,10 +11,16 @@
 - MySQL / MariaDB, SQL Server, PostgreSQL
 - HTML
 - CSS
+  - Tailwind
+
 
 
 <!--
 **buenconsejosteph/buenconsejosteph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+# 🌱
+## Improvements
+🌱 Improving on Angular and React skills
 
 Here are some ideas to get you started:
 
